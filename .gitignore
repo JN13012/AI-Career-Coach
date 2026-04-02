@@ -1,0 +1,13 @@
+.sfdx
+.env
+env/
+ENV/
+.venv
+.venv/
+venv/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
+flagged/
