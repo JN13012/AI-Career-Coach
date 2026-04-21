@@ -35,3 +35,5 @@ WATSONX_PROJECT_ID="your_project_id"
 Lancer l'application
 
 python app.py
+
+* Running on local URL:  http://127.0.0.1:7860
